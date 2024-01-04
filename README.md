@@ -1,5 +1,8 @@
-### 안녕하세요 👋
-![header](https://capsule-render.vercel.app/api?type=transparent)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=transparent&text=HELLO)
+</div>
+
 <!--
 **Audrey-1120/Audrey-1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
