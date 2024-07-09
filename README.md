@@ -1,6 +1,28 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=transparent&text=HELLO)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello!)
+
+  ## 안녕하세요! 매일 꾸준히 학습하고 성장하는 신입 개발자입니다 😁
+
+
+  🌊 **Used Language**
+  <br>
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-1120&layout=compact)](https://github.com/Audrey-1120/github-readme-stats)
+  
+
+  🌊 **Tech Stack**
+  <br>
+  <br>
+  ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![js](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+  ![js](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+
+  
 </div>
 
 <!--
