@@ -3,7 +3,9 @@
   ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello!)
 
   ## 안녕하세요! 매일 꾸준히 학습하고 성장하는 신입 개발자입니다 😁
-
+  <br>
+  
+</div>
 
   🌊 **Used Language**
   <br>
@@ -22,8 +24,15 @@
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![js](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
+  🌊 **주요 프로젝트**
+  <br>
+  1. 그라폴리오 클론 프로젝트
+  링크 : https://github.com/Audrey-1120/GDJ77_semi_project
+
+  3. 학원 그룹웨어, Academix
+  링크 : https://github.com/Audrey-1120/GDJ77_Academix
   
-</div>
+
 
 <!--
 **Audrey-1120/Audrey-1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
